@@ -17,5 +17,7 @@ data = pd.load(open('interface_data.p','rb'))
 peacedf,fightdf = data['peacedf'],data['fightdf']
 <<<<<<<
 
+For questions about the format of these data, contact Eddie Lee.
+
 If you have questions about how the data was collected, contact Dr. Jessica
 Flack (jflack@santafe.edu).
