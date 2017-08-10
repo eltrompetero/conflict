@@ -1,6 +1,3 @@
-Author: Edward D. Lee
-Email: edl56@cornell.edu
-
 interface_data.p is a Python pickle containing the data used for "Collective
 memory in primate conflict implied by temporal scaling collapse" by Lee et al.
 published in J. R. Soc. Interface (2017). 
@@ -17,7 +14,8 @@ data = pd.load(open('interface_data.p','rb'))
 peacedf,fightdf = data['peacedf'],data['fightdf']
 <<<<<<<
 
-For questions about the format of these data, contact Eddie Lee.
+For questions about the format of these data, contact Eddie Lee
+(edl56@cornell.edu).
 
 If you have questions about how the data was collected, contact Dr. Jessica
 Flack (jflack@santafe.edu).
